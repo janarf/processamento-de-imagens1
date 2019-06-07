@@ -2,7 +2,7 @@ https://github.com/janarf/processamento-de-imagens1/blob/master/tp1/tp1.ipynb
 
 # Trabalho 1: Processamento de Imagens Digitais
 
-### DCC029: Processamento de Imagens Digitais
+### Processamento de Imagens Digitais
 Conceitos de digitalização e representação de imagens. Elementos de um sistema de processamento digital de imagens. Técnicas de modificação da escala de cinza, técnicas de modificação por histograma, operações aritméticas com imagens, pseudocoloração, suavização de imagens, aguçamento de bordas, filtros espaciais.   
 
 ## Requisitos do Trabalho
